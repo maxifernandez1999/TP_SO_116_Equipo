@@ -1,2 +1,2 @@
-# TP_SO_i1_Equipo
+# TP_SO_116_Equipo
 Repositorio del Trabajo Grupal AySO
