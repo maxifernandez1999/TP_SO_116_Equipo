@@ -1,2 +1,7 @@
 Maximiliano Fernandez iP: 192.168.1.36
-Herik Arismendy ip:10.0.2.15 Hora: 12:03p.m.
+<<<<<<< HEAD
+Herik Arismendy ip:10.0.2.15 Hora: 12:03p.m
+=======
+Herik Arismendy ip:10.0.2.15 Hora: 12:03p.m
+Florencia Colodro IP: 192.168.56.1 12.12pm
+>>>>>>> 2f0d383df18567d4c14a417a30997f7745efaedb
