@@ -1,3 +1,5 @@
 Maximiliano Fernandez 
 Herik Arismendy 
 Florencia Colodro
+a- Puedo ver los datos que cargaron los demas en los repositorios
+b- Asi es. 
